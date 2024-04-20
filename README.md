@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido par a o desafio de Hackathon da Pós Graduação e
     </td>
      <td align="center">
       <a href="https://github.com/winiciussabino">
-        <img src="https://avatars1.githubusercontent.com/u/78553616" width="100px;" alt="Foto do Winicius Sabino"/><br>
+        <img src="https://avatars.githubusercontent.com/u/37580243?v=4" width="100px;" alt="Foto do Winicius Sabino"/><br>
         <sub>
           <b>Winicius Sabino</b>
         </sub>
